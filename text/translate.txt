@@ -1,0 +1,18 @@
+<A href="http://www.url.co.uk/translate/en_de.asp"><img
+src="pathtogermanflag.gif" alt="Translate German" width="26"
+height="16" border="0"></a>
+<A href="http://www.url.co.uk/translate/en_fr.asp"><img
+src="pathtofrenchflag.gif" alt="Translate French" width="26"
+height="16" border="0"></a>
+<A href="http://www.url.co.uk/translate/en_it.asp"><img
+src="pathtoitalianflag.gif" alt="Translate Italian" width="26"
+height="16" border="0"></a>
+<A href="http://www.url.co.uk/translate/en_es.asp"><img
+src="pathtospanishflag.gif" alt="Translate Spanish" width="26"
+height="16" border="0"></a>
+
+
+
+
+
+<?php require("http://www.donutey.frihost.net/lang.inc"); ?>
