@@ -1,0 +1,52 @@
+body {
+	margin:0;
+}
+
+#logo {
+	margin-left: 3px;
+}
+
+#back {
+	margin-top: 22px;
+	margin-right: 12px;
+	margin-bottom: 20px;
+}
+#backm {
+	margin-top: 22px;
+	margin-left: 8px;
+	margin-bottom: 20px;
+	position: relative;
+}
+	
+#marketing {
+	margin-left: 4px;
+	margin-right: -2px;
+}
+
+#pageinfo {
+	margin-left: 24px;
+	clear: both;
+}
+
+#backfoot {
+	margin-top: 8px;
+}
+#footer {
+	margin-bottom: 4px;
+}
+#botlinks {
+	margin-bottom: 10px;
+	padding-bottom: 0px;
+}
+
+#next {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+#translate {
+	width: 270px;
+	margin-left: 8px;
+	top: 0px;
+	float: left;
+	position: relative;
+}
